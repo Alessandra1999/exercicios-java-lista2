@@ -11,7 +11,7 @@ Siga os passos abaixo para clonar o repositório e executar os exercícios local
 
 1. Clone o Repositório
    
-Abra o terminal e execute o seguinte comando para clonar o repositório: git clone git@github.com:Alessandra1999/exercicios-java-lista1.git
+Abra o terminal e execute o seguinte comando para clonar o repositório: git clone git@github.com:Alessandra1999/exercicios-java-lista2.git
 
 2. Importe o Projeto na IDE
    
